@@ -12,4 +12,3 @@ tldextract
 
 # Used locally by trustymail code even when Lambda is used
 dnspython
-python3
